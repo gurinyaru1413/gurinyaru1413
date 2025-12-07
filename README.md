@@ -18,6 +18,6 @@
 [![](https://visitcount.itsvg.in/api?id=gurinyaru1413&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 支援
-  [![ko-fi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l6NjVyY2N3cjZ5cTNrcnRseWlka2pwNWxqenZqdXNzcmd6bWVseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EskSzzk9dMFY1UooxD/giphy.gif)](https://ko-fi.com/E1E61PUJPV)
+  [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/v2/kofi_logo.png)](https://ko-fi.com/E1E61PUJPV)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
