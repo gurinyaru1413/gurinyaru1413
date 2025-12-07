@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ぐりにゃーる</h1>
-<h3 align="center">日本人のしがないエンジニア</h3>
+<h3 align="center">日本人のしがない開発者 / インフラエンジニア/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurinyaru1413&label=Profile%20views&color=0e75b6&style=flat" alt="gurinyaru1413" /> </p>
 
