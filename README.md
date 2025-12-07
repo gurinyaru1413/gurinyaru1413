@@ -18,6 +18,6 @@
 [![](https://visitcount.itsvg.in/api?id=gurinyaru1413&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 支援
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E61PUJPV)
+  [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_red.png)](https://ko-fi.com/E1E61PUJPV)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
