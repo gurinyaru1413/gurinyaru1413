@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurinyaru1413&label=Profile%20views&color=0e75b6&style=flat" alt="gurinyaru1413" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gurinyaru1014" target="blank"><img src="https://img.shields.io/twitter/follow/gurinyaru1014?logo=twitter&style=for-the-badge" alt="gurinyaru1014" /></a> </p>
-
 # 💫 About Me:
 趣味でサーバーをいじってWebサーバーやゲームサーバーの構築・運用をしています。プログラミングはゆったりやっているのであまりできないです。
 
