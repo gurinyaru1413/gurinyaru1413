@@ -18,7 +18,7 @@
 [![](https://visitcount.itsvg.in/api?id=gurinyaru1413&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 支援
-  <h1>[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gurinyaru) </h1>
+  <h1> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gurinyaru) </h1>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
