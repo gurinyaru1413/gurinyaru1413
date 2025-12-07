@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gurinyaru1014" target="blank"><img src="https://img.shields.io/twitter/follow/gurinyaru1014?logo=twitter&style=for-the-badge" alt="gurinyaru1014" /></a> </p>
 
-- 📝 概要 **趣味でサーバーをいじってWebサーバーやゲームサーバーの構築・運用をしています**
+- 📝 概要 **趣味でサーバーをいじってWebサーバーやゲームサーバーの構築・運用をしています。プログラミングはゆったりやっているのであまりできないです。**
 
 - 🌱 学習中 **Java,JavaScript,Python,Node.js**
 
